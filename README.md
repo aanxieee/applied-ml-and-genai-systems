@@ -71,3 +71,30 @@ The focus is not on toy models or academic demos, but on:
 I approach ML and GenAI as **decision-enabling tools**, not magic models.
 
 My typical workflow:
+Messy data
+→ clean signals
+→ simple but strong ML logic
+→ automation / system thinking
+→ measurable impact
+
+
+When patterns are complex or scale demands it, I use ML / GenAI.
+Otherwise, I prefer clarity, reliability, and maintainability.
+
+---
+
+## Tech Stack
+
+- Python
+- Pandas, NumPy, scikit-learn
+- PyTorch / Transformers (where relevant)
+- LangChain & LLM APIs
+- Jupyter / Colab
+
+---
+
+## Note
+
+These notebooks are intentionally kept **transparent and exploratory** to show my thinking, trade-offs, and iteration process — similar to how real ML systems evolve in startups.
+
+##AUTHOR : https://www.aanxiee.com/
